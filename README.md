@@ -19,8 +19,9 @@ Librairies :
 pip install -r requirements.txt
 
 # **Installation**
-
+   ```bash
 git clone https://github.com/ayoub-elmarchoum/K-Nearest-Neighbors.git
+   ```bash
 
 cd K-Nearest-Neighbors
 
