@@ -21,10 +21,9 @@ pip install -r requirements.txt
 # **Installation**
    ```bash
 git clone https://github.com/ayoub-elmarchoum/K-Nearest-Neighbors.git
-   ```bash
-   ```bash
+   
 cd K-Nearest-Neighbors
-   ```bash
+   
 #**Utilisation**
 
 Chargez les données dans le fichier Datasets.
