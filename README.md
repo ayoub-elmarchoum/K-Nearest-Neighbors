@@ -28,10 +28,10 @@ cd K-Nearest-Neighbors
 Chargez les données dans le fichier Datasets.
 
 # **Exécutez le script pour lancer la classification :**
-
+```bash
 python knn_classification.py
 knn = KNeighborsClassifier(n_neighbors=5)
-
+```
 # **Résultats**
 #**Les résultats du modèle incluent des métriques comme :**
  - L'exactitude (Accuracy)
